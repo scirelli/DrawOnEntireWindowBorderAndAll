@@ -1,0 +1,24 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Draw On entire window border and all - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSP1384.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Draw On entire window border and all.pdb" /debug /machine:I386 /out:"Debug/Draw On entire window border and all.exe" /pdbtype:sept 
+".\Debug\Drasw on it all.obj"
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP1384.TMP"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+Draw On entire window border and all.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
